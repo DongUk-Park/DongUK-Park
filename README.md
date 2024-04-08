@@ -31,7 +31,7 @@ I am conducting research as an undergraduate research student in the Data Scienc
       </td>
       <td width="80px" align="center">
         <span><strong>C++</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" />
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       </td>
       <td width="80px" align="center">
         <span><strong>Java</strong></span><br>
@@ -45,15 +45,15 @@ I am conducting research as an undergraduate research student in the Data Scienc
       </td>
       <td width="80px" align="center">
         <span><strong>Spark</strong></span><br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg">
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>TypeScript</strong></span><br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+        <span><strong>Pandas</strong></span><br>
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>JavaScript</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <span><strong>Numpy</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
       </td>
     </tr>
   </tbody>
@@ -66,14 +66,9 @@ I am conducting research as an undergraduate research student in the Data Scienc
       <td width="80px" align="center">
         <span><strong>MySql</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-      </td>
-      <td align="center">
-        <span><strong>Postgresql</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-      </td>
       <td width="80px" align="center">
-        <span><strong>Redis</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+        <span><strong>Neo4j</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
       </td>
       <td width="80px" align="center">
         <span><strong>MongoDB</strong></span><br>
@@ -92,42 +87,42 @@ I am conducting research as an undergraduate research student in the Data Scienc
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
       </td>
       <td align="center">
-        <span><strong>Intelij</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+        <span><strong>Jupyter</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>VSCode</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       </td>
       <td width="80px" align="center">
-        <span><strong>AndroidStudio</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+        <span><strong>Docker</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
       </td>
     </tr>
     <tr valign="top">
       <td width="80px" align="center">
-        <span><strong>Jira</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+        <span><strong>Linux</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>AWS</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+        <span><strong>Arduino</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
       </td>
       <td width="80px" align="center">
-        <span><strong>Docker</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+        <span><strong>Notion</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Jenkins</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+        <span><strong>Unity</strong></span><br>
+        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
       </td>
     </tr>
   </tbody>
 </table>
 
-### 💪 Stats
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gongdongho12&theme=vue)
-![Dongho Gang's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gongdongho12&theme=vue)
-![Dongho Gang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gongdongho12&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j)
-![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gongdongho12&theme=vue&utcOffset=8)
-![trophy](https://github-profile-trophy.vercel.app/?username=gongdongho12&margin-w=0&theme=gitdimme&row=1&column=5)
+<!-- ### 💪 Stats -->
+<!--![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DongUK-Park&theme=vue) -->
+<!--![Dongho Gang's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DongUK-Park&theme=vue) -->
+<!--![Dongho Gang's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DongUK-Park&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j) -->
+<!--![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DongUK-Park&theme=vue&utcOffset=8) -->
+<!--![trophy](https://github-profile-trophy.vercel.app/?username=DongUK-Park&margin-w=0&theme=gitdimme&row=1&column=5) -->
