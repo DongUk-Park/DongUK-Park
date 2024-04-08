@@ -49,7 +49,7 @@ I am conducting research as an undergraduate research student in the Data Scienc
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Pandas</strong></span><br>
+        <span><strong>Pandas</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
       </td>
       <td width="80px" align="center">
