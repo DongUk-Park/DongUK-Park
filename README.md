@@ -7,13 +7,14 @@
 
 I am conducting research as an undergraduate research student in the Data Science Lab.
 
-<img src="imgs/B03.png" width="100%" />
+<img src="imgs/B06.png" width="100%" />
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DongUK-Park&theme=vue)
 
 ### 👨‍💼 Experience
-- Pricing System, KakaoStyle (2022.06 ~ )
-- Research & Development, StoreLink (2021.03 ~ 2022.06)
+- Multi-Modal POI Recommendation Using Graph Neural Network (2024.01 ~ present)
+- A Geographical Area Attention Model for Points of Interest Recommendation
+- Real-time Analysis and Dockerization of Chimney Data with Apache Spark(2022.08 ~ 2022.11)
 
 
 ### 🛠 Tech Stack
