@@ -3,9 +3,9 @@
 <!--[![linked-in](https://img.shields.io/badge/Dongho-0A66C2?style=round-square&logo=LinkedIn)](https://www.linkedin.com/in/dongholab/)-->
 <!--[![blog](https://img.shields.io/badge/DonghoLab_Blog-663399?style=round-square&logo=Gatsby)](https://blog.dongholab.com/)-->
 
-👋 Hi there! I'm Donguk Park, and I'm interested in **Recommendation System** using Pytorch.
+👋 Hi there! I'm Donguk Park, and I'm interested in **Recommendation System, Multi-Modal AI, Graph Neural Network** using Pytorch.
 
-I am conducting research as an undergraduate research student in the Data Science Lab.
+I am conducting research as an undergraduate research student in the Data Science Lab, Dong-A Univ.
 
 <img src="imgs/B06.png" width="100%" />
 
@@ -13,7 +13,9 @@ I am conducting research as an undergraduate research student in the Data Scienc
 
 ### 👨‍💼 Experience
 - Multi-Modal POI Recommendation Using Graph Neural Network (2024.01 ~ present)
-- A Geographical Area Attention Model for Points of Interest Recommendation
+- A Geographical Area Attention Model for Points of Interest Recommendation (2023.06 ~ 2024.01)
+- Development of a Communication Agent that connects Production Environment
+Miniature and Simulation SW (2023.11 ~ 2023.12)
 - Real-time Analysis and Dockerization of Chimney Data with Apache Spark(2022.08 ~ 2022.11)
 
 
