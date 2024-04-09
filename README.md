@@ -1,5 +1,5 @@
 [![mail](https://img.shields.io/badge/parkdw00@naver.com-EA4335?style=round-square&logo=Gmail&logoColor=white)](mailto:parkdw00@naver.com)
-[![resume](https://img.shields.io/badge/Dongho's_resume-47766a?style=round-square&logo=Notion)](https://drive.google.com/file/d/1vVYlwUbWdn7XyGSKwtF7o-TJeBS4H2S7/view)
+[![resume](https://img.shields.io/badge/DongUk's_resume-47766a?style=round-square&logo=Notion)](https://drive.google.com/file/d/1vVYlwUbWdn7XyGSKwtF7o-TJeBS4H2S7/view)
 <!--[![linked-in](https://img.shields.io/badge/Dongho-0A66C2?style=round-square&logo=LinkedIn)](https://www.linkedin.com/in/dongholab/)-->
 <!--[![blog](https://img.shields.io/badge/DonghoLab_Blog-663399?style=round-square&logo=Gatsby)](https://blog.dongholab.com/)-->
 
