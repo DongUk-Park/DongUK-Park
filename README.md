@@ -7,7 +7,7 @@
 
 I am conducting research as an undergraduate research student in the Data Science Lab, Dong-A Univ.
 
-<img src="imgs/B06.png" width="100%" />
+<!-- <img src="imgs/B06.png" width="100%" /> -->
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DongUK-Park&theme=vue)
 
