@@ -3,7 +3,7 @@
 <!--[![linked-in](https://img.shields.io/badge/Dongho-0A66C2?style=round-square&logo=LinkedIn)](https://www.linkedin.com/in/dongholab/)-->
 <!--[![blog](https://img.shields.io/badge/DonghoLab_Blog-663399?style=round-square&logo=Gatsby)](https://blog.dongholab.com/)-->
 
-👋 Hi there! I'm Donguk Park, and I'm interested in **Recommendation System, Multi-Modal AI, Graph Neural Network** using Pytorch.
+👋 Hi there! I'm Donguk Park, and I'm interested in **Recommendation System, LLM, GraphRAG, Graph Neural Network** using Pytorch.
 
 I am conducting research as an undergraduate research student in the Data Science Lab, Dong-A Univ.
 
