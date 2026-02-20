@@ -12,7 +12,7 @@ I am conducting research as an undergraduate research student in the Data Intell
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DongUK-Park&theme=vue)
 
 ### 👨‍💼 Experience
-- Diagnosing Risks in LLM-powered Recommender Systems (2025.03 ~ present)
+- Diagnosing Risks in LLM-powered Recommender Systems (2024.08 ~ present)
 - Multi-Modal POI Recommendation with Graph Neural Network (2024.01 ~ 2024.08)
 - A Geographical Area Attention Model for Points of Interest Recommendation (2023.06 ~ 2024.01)
 - Development of a Communication Agent that connects Production Environment
