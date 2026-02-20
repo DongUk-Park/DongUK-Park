@@ -5,14 +5,15 @@
 
 👋 Hi there! I'm Donguk Park, and I'm interested in **Recommendation System, LLM, GraphRAG, Graph Neural Network** using Pytorch.
 
-I am conducting research as an undergraduate research student in the Data Science Lab, Dong-A Univ.
+I am conducting research as an undergraduate research student in the Data Intelligence Lab, UNIST.
 
 <img src="imgs/B06.png" width="100%" />
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DongUK-Park&theme=vue)
 
 ### 👨‍💼 Experience
-- Multi-Modal POI Recommendation Using Graph Neural Network (2024.01 ~ present)
+- Diagnosing Risks in LLM-powered Recommender Systems (2025.03 ~ present)
+- Multi-Modal POI Recommendation with Graph Neural Network (2024.01 ~ 2024.08)
 - A Geographical Area Attention Model for Points of Interest Recommendation (2023.06 ~ 2024.01)
 - Development of a Communication Agent that connects Production Environment
 Miniature and Simulation SW (2023.11 ~ 2023.12)
