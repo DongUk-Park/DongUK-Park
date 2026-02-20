@@ -15,8 +15,6 @@ I am conducting research as an undergraduate research student in the Data Intell
 - Diagnosing Risks in LLM-powered Recommender Systems (2024.08 ~ present)
 - Multi-Modal POI Recommendation with Graph Neural Network (2024.01 ~ 2024.08)
 - A Geographical Area Attention Model for Points of Interest Recommendation (2023.06 ~ 2024.01)
-- Development of a Communication Agent that connects Production Environment
-Miniature and Simulation SW (2023.11 ~ 2023.12)
 - Real-time Analysis and Dockerization of Chimney Data with Apache Spark(2022.08 ~ 2022.11)
 
 
