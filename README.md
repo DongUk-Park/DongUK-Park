@@ -3,7 +3,7 @@
 <!--[![resume](https://img.shields.io/badge/DongUk's_resume-47766a?style=round-square&logo=Notion)](https://drive.google.com/file/d/1gCHw7foH3D1bsPiSaqZ5OFqXb8SUaSh8/view?usp=sharing)-->
 <!--[![blog](https://img.shields.io/badge/DonghoLab_Blog-663399?style=round-square&logo=Gatsby)](https://blog.dongholab.com/)-->
 
-👋 Hi there! I'm Donguk Park, and I'm interested in **Recommendation System, LLM, GraphRAG, Graph Neural Network** using Pytorch.
+👋 Hi there! I'm Donguk Park, and I'm interested in **Recommendation System, LLM, Safe AI**.
 
 I am conducting research as an undergraduate research student in the Data Intelligence Lab, UNIST.
 
